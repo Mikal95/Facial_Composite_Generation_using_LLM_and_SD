@@ -1,6 +1,7 @@
 Credits:
-Built with Llama
-Powered by Stability AI
+Built with Llama.
+
+Powered by Stability AI.
 
 
 Install instructions:
