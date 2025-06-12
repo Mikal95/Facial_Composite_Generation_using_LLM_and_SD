@@ -6,11 +6,11 @@ Powered by Stability AI.
 
 Install instructions:
 
-1. Use python version 3.12
+Use python version 3.12.
 
-2. If you are using a Nvidia GPU, install CUDA toolkit version 12.6 from https://developer.nvidia.com/cuda-12-6-0-download-archive
+If you are using a Nvidia GPU, install CUDA toolkit version 12.6 from https://developer.nvidia.com/cuda-12-6-0-download-archive.
 
-3. Find correct PyTorch version using install instructions from https://pytorch.org/get-started/locally/ then run the pip command:
+Find correct PyTorch version using install instructions from https://pytorch.org/get-started/locally/ then run the pip command:
 pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu126
 
 
