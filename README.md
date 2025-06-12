@@ -10,8 +10,8 @@ Use python version 3.12.
 
 If you are using a Nvidia GPU, install CUDA toolkit version 12.6 from https://developer.nvidia.com/cuda-12-6-0-download-archive.
 
-Find correct PyTorch version using install instructions from https://pytorch.org/get-started/locally/ then run the pip command:
-pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu126
+Find correct PyTorch version using install instructions from https://pytorch.org/get-started/locally/ then run the pip command: pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu126
+
 
 
 
